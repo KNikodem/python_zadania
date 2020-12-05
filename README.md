@@ -1,8 +1,8 @@
 # python_zadania
 
 ## Zadania:
-* wejście/wyjście: [Wej/Wyj.py]
-* Praca z plikami: (Files.py)
+* wejście/wyjście: Wej/Wyj.py
+* Praca z plikami: Files.py
 * Tekst: text.py
 * Obliczenia i algorytmy: algorithm.py
 * Klasy: complex.py
