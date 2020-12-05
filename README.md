@@ -1,5 +1,6 @@
 # python_zadania
 
+
 Zadanie:
 
 wejście/wyjście: Wej/Wyj.py
