@@ -1,0 +1,14 @@
+<garage>
+    <car id = "1">
+        <model>Ford</model>
+        <engine>2.0</engine>
+    </car>
+    <car id = "2">
+        <model>Honda</model>
+        <engine>1.6</engine>
+    </car>
+    <car id = "3">
+        <model>Cadillac</model>
+        <engine>7.5</engine>
+    </car>
+</garage>

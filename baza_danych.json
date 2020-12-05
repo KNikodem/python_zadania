@@ -1,0 +1,16 @@
+{
+    "Garage": [
+        {
+            "Model": "Saab",
+            "Engine": "1.8"
+        },
+        {
+            "Model": "Volvo",
+            "Engine": "2.0"
+        },
+        {
+            "Model": "Nissan",
+            "Engine": "5.0"
+        }
+    ]
+}
