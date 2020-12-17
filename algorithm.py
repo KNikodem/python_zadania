@@ -3,9 +3,7 @@ import random
 import numpy as np
 
 def roots():
-    #print("kot")
-    #a, b, c = int(input("Wprowadz współczynnik a b c oddzielajac je spacja\n").split())
-    a, b, c = [int(x) for x in input("Enter three value: ").split()]
+    a, b, c = [int(x) for x in input("Wprowadz współczynnik a b c: ").split()]
     delta = ((b**2) - (4*a*c))
     x=[]
     if delta > 0:
@@ -66,8 +64,6 @@ def matrix_multiply():
     print(res)
 
 def matrix_det():
-    #i = random.randint(2,10)
-    #mat = [([random.randint(0, 100) for i in range(i)]) for j in range(i)]
     mat = [([random.randint(0, 5) for i in range(3)]) for j in range(3)]
     res = [([0 for i in range(8)]) for j in range(8)]
     temp = [([0 for i in range(3)]) for j in range(2)]
